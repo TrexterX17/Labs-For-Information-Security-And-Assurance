@@ -7,7 +7,7 @@
 
 **Comprehensive hands-on cybersecurity lab portfolio demonstrating practical security operations, incident response, vulnerability management, and digital forensics capabilities.**
 
-[View Labs](#-lab-portfolio) • [Skills Matrix](#-skills-demonstrated) • [Contact](#-contact)
+[View Labs](#-lab-portfolio) • [Skills Matrix](#-skills-demonstrated) • [Contact](#-Let's-Connect)
 
 </div>
 
