@@ -999,15 +999,6 @@ Special thanks to the open-source security community for developing and maintain
 
 ---
 
-## 📈 Repository Stats
-
-![Last Updated](https://img.shields.io/badge/Last%20Updated-February%202026-brightgreen?style=flat-square)
-![Labs](https://img.shields.io/badge/Labs-5-blue?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
-![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-orange?style=flat-square)
-
----
-
 <div align="center">
 
 ### 🔐 Cybersecurity is not a product, but a process.
