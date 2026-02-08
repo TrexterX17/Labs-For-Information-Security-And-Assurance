@@ -24,7 +24,6 @@
 - [Security Frameworks](#-security-frameworks)
 - [Key Achievements](#-key-achievements)
 - [Repository Structure](#-repository-structure)
-- [How to Use This Repository](#-how-to-use-this-repository)
 - [Contact](#-contact)
 
 ---
@@ -757,9 +756,8 @@ I'm actively seeking opportunities in cybersecurity and would love to discuss ho
 ### Contact Information
 
 - **Email**: fahmed29@buffalo.edu
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **GitHub**: [Your GitHub Profile URL]
-- **Portfolio**: [This Repository]
+- **LinkedIn**: [https://www.linkedin.com/in/faraz-ahmed-5670931a7/]
+- **GitHub**: [https://github.com/TrexterX17]
 
 ---
 
@@ -790,8 +788,8 @@ Special thanks to the open-source security community for developing and maintain
 
 **Built with dedication to securing digital infrastructure and protecting organizations from cyber threats.**
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/TrexterX17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/faraz-ahmed-5670931a7/)
 
 ---
 
