@@ -701,108 +701,24 @@ Information-Security-Labs/
 │
 ├── Lab-01-Linux-System-Security-Basics/
 │   ├── README.md (Comprehensive lab documentation)
-│   ├── screenshots/
-│   │   ├── 01-cat-command.png
-│   │   ├── 02-ls-permissions.png
-│   │   └── ... (12 total)
-│   ├── reports/
-│   │   └── LAB_1_Full_Report.pdf
-│   └── evidence/
-│       └── auth-log-excerpts.txt
-│
+│   ├── Documented Lab pdf (full documented report of lab)
+|
 ├── Lab-02-System-Hardening/
 │   ├── README.md
-│   ├── screenshots/
-│   │   ├── 01-apt-update.png
-│   │   ├── 02-ufw-configuration.png
-│   │   └── ... (30 total)
-│   ├── reports/
-│   │   └── LAB_2_System_Hardening_Full_Report.pdf
-│   └── configurations/
-│       ├── ufw-rules-backup.txt
-│       └── services-inventory.txt
+│   ├── Documented Lab pdf 
 │
 ├── Lab-03-Vulnerability-Scanning-Management/
 │   ├── README.md
-│   ├── screenshots/
-│   │   ├── 01-openvas-login.png
-│   │   ├── 02-scan-configuration.png
-│   │   └── ... (15 total)
-│   ├── reports/
-│   │   ├── LAB_3_Vulnerability_Scan_Full_Report.pdf
-│   │   ├── OpenVAS_Scan_Report_192.168.252.61.pdf
-│   │   └── OpenVAS_Scan_Report_192.168.252.3.pdf
-│   └── documentation/
-│       ├── vulnerability-summary.md
-│       └── remediation-plan.md
+│   ├── Documented Lab pdf 
 │
 ├── Lab-04-Packet-Analysis-Network-Reconnaissance/
 │   ├── README.md
-│   ├── Part-1-Packet-Analysis/
-│   │   ├── screenshots/ (5 images)
-│   │   └── evidence/
-│   │       └── pseudobank-traffic.pcap
-│   ├── Part-2-Network-Reconnaissance/
-│   │   ├── screenshots/ (11 images)
-│   │   └── scan-results/
-│   │       └── nmap-scans.xml
-│   └── reports/
-│       └── LAB_4_Full_Report.pdf
+│   ├── Documented Lab pdf
 │
 ├── Lab-05-Incident-Investigation-Log-Analysis/
 │   ├── README.md
-│   ├── Part-1-Initial-Vector/
-│   │   ├── screenshots/ (6 images)
-│   │   └── evidence/
-│   │       └── securitylog.csv
-│   ├── Part-2-Post-Breach-Behavior/
-│   │   ├── screenshots/ (6 images)
-│   │   └── evidence/
-│   │       └── ConsoleHost_history.txt
-│   └── reports/
-│       ├── LAB_5_Full_Report.pdf
-│       ├── incident-timeline.pdf
-│       └── executive-summary.md
-│
-└── resources/
-    ├── MITRE-ATT&CK-Mapping.xlsx
-    ├── Skills-Matrix.xlsx
-    ├── Certification-Alignment.pdf
-    └── Tools-Cheatsheet.md
+│   ├── Documented Lab pdf
 ```
-
----
-
-## 📖 How to Use This Repository
-
-### For Recruiters & Hiring Managers
-
-1. **Quick Overview**: Read this README for portfolio highlights
-2. **Skills Assessment**: Review [Skills Matrix](#-skills-demonstrated) for specific capabilities
-3. **Deep Dive**: Select a lab matching your job requirements
-4. **Verification**: Review screenshots and technical documentation in each lab folder
-5. **Interview Topics**: Use lab scenarios as discussion points for technical interviews
-
-**Recommended Reading Path:**
-- **SOC Analyst Position** → Labs 1, 3, 5 (Threat detection, vulnerability management, incident response)
-- **Incident Responder** → Labs 4, 5 (Forensics, investigation, attack reconstruction)
-- **Security Engineer** → Labs 2, 3 (Hardening, vulnerability management, architecture)
-- **Penetration Tester** → Labs 4, 5 (Reconnaissance, exploitation, privilege escalation)
-
-### For Peers & Students
-
-1. **Learning Path**: Start with Lab 1 (foundations) and progress sequentially
-2. **Skill Development**: Use labs as templates for your own security projects
-3. **Tool Practice**: Follow the commands and configurations documented
-4. **Career Planning**: Review certification alignment for your career goals
-5. **Interview Prep**: Study attack scenarios and remediation strategies
-
-### For Collaboration
-
-- Open to discussing labs, techniques, and security topics
-- Available for peer review of similar security projects
-- Interested in collaborative security research
-- Open to feedback and suggestions for improvement
 
 ---
 
@@ -834,27 +750,6 @@ Information-Security-Labs/
 
 ---
 
-## 🎓 Continuous Learning
-
-### Currently Exploring
-
-- **Advanced Malware Analysis**: Reverse engineering and behavioral analysis
-- **Cloud Security**: AWS/Azure security architecture and compliance
-- **Security Automation**: Python/PowerShell scripting for SOC automation
-- **Threat Intelligence**: OSINT, IOC analysis, threat hunting frameworks
-- **Red Team Operations**: Advanced post-exploitation and evasion techniques
-
-### Next Steps
-
-- [ ] Complete **CompTIA Security+** certification (Q2 2026)
-- [ ] Pursue **CompTIA CySA+** (Q3 2026)
-- [ ] Build **home security lab** with SIEM (Splunk/ELK Stack)
-- [ ] Contribute to **open-source security projects**
-- [ ] Participate in **CTF competitions** (HackTheBox, TryHackMe)
-- [ ] Develop **security automation scripts** portfolio
-
----
-
 ## 🤝 Let's Connect
 
 I'm actively seeking opportunities in cybersecurity and would love to discuss how my hands-on experience can contribute to your security team.
@@ -866,52 +761,9 @@ I'm actively seeking opportunities in cybersecurity and would love to discuss ho
 - **GitHub**: [Your GitHub Profile URL]
 - **Portfolio**: [This Repository]
 
-### Open To
-
-✅ **Entry-Level Security Positions**: SOC Analyst, Security Analyst, Junior Incident Responder  
-✅ **Internships**: Summer 2026 security internships  
-✅ **Contract/Part-Time**: Security operations, vulnerability management  
-✅ **Collaboration**: Open-source security projects, research  
-✅ **Mentorship**: Learning from experienced security professionals  
-✅ **Networking**: Connecting with security community
-
-### Preferred Locations
-
-- **Primary**: Buffalo, NY and surrounding areas
-- **Open to**: Remote positions
-- **Willing to relocate**: For the right opportunity
-
----
-
-## 📜 License & Usage
-
-### Personal Portfolio
-
-This repository serves as a personal portfolio demonstrating hands-on cybersecurity skills developed through academic coursework. All lab work was completed individually as part of Information Security and Assurance curriculum.
-
-### Fair Use
-
-- **Academic Work**: Labs completed as educational assignments
-- **Documentation**: Original technical writing and analysis
-- **Tools**: All tools used are open-source or freely available
-- **Screenshots**: Captured from personal lab environments
-
-### Attribution
-
-If referencing or inspired by this portfolio:
-- Provide attribution to Faraz Ahmed
-- Link back to this repository
-- Do not claim lab work as your own
-
 ---
 
 ## 🙏 Acknowledgments
-
-### Academic
-
-- **Course**: Information Security and Assurance
-- **Institution**: [Your University]
-- **Instructor**: [Instructor Name - if you want to include]
 
 ### Tools & Platforms
 
