@@ -57,7 +57,7 @@ This repository contains comprehensive documentation of hands-on cybersecurity l
 ### Lab 01: Introduction to Linux and System Security Basics
 **Focus Area:** Threat Hunting & User Access Management
 
-[📂 View Lab Details](./Lab-01-Linux-System-Security-Basics/)
+[📂 View Lab Details](https://github.com/TrexterX17/Labs-For-Information-Security-And-Assurance/blob/master/Lab-01/LAB%201%20Intro%20To%20Linux%20And%20System%20Security%20Basics%20Faraz%20Ahmed.pdf)
 
 **Key Accomplishments:**
 - Investigated unauthorized access and data exfiltration incident
@@ -92,7 +92,7 @@ Impact: Sensitive SSN data exposure
 ### Lab 02: System Hardening
 **Focus Area:** Defensive Security & Attack Surface Reduction
 
-[📂 View Lab Details](./Lab-02-System-Hardening/)
+[📂 View Lab Details](https://github.com/TrexterX17/Labs-For-Information-Security-And-Assurance/blob/master/Lab-02/LAB%202%20System%20Hardening%20Faraz%20Ahmed.pdf)
 
 **Key Accomplishments:**
 - Implemented comprehensive server hardening baseline
@@ -131,7 +131,7 @@ Improvement:       +59 points
 ### Lab 03: Vulnerability Scanning and Management
 **Focus Area:** Proactive Security Assessment & Risk Management
 
-[📂 View Lab Details](./Lab-03-Vulnerability-Scanning-Management/)
+[📂 View Lab Details](https://github.com/TrexterX17/Labs-For-Information-Security-And-Assurance/blob/master/Lab-03/LAB%203%20Vulnerability%20Scanning%20and%20Management%20Faraz%20Ahmed.pdf/)
 
 **Key Accomplishments:**
 - Deployed OpenVAS/GVM for enterprise vulnerability management
@@ -173,7 +173,7 @@ Remediation: Immediate password change + access control implementation
 ### Lab 04: Introduction to Packet Analysis and Network Reconnaissance
 **Focus Area:** Digital Forensics & Network Intelligence
 
-[📂 View Lab Details](./Lab-04-Packet-Analysis-Network-Reconnaissance/)
+[📂 View Lab Details](https://github.com/TrexterX17/Labs-For-Information-Security-And-Assurance/blob/master/Lab-04/LAB%204%20Introduction%20to%20Packet%20Analysis%20and%20Network%20Reconnaissance%20Faraz%20Ahmed.pdf)
 
 **Key Accomplishments:**
 
@@ -233,7 +233,7 @@ Root Cause: No HTTPS encryption + LFI vulnerability
 ### Lab 05: Incident Investigation and Log Analysis
 **Focus Area:** Windows Incident Response & Privilege Escalation
 
-[📂 View Lab Details](./Lab-05-Incident-Investigation-Log-Analysis/)
+[📂 View Lab Details](https://github.com/TrexterX17/Labs-For-Information-Security-And-Assurance/blob/master/Lab-05/LAB%205%20Incident%20Investigation%20and%20Log%20Analysis%20Faraz%20Ahmed.pdf)
 
 **Key Accomplishments:**
 
