@@ -1,5 +1,4 @@
- Information Security & Assurance - Hands-On Lab Portfolio
-
+** Information Security & Assurance - Hands-On Lab Portfolio**
 <div align="center">
 
 [![Security](https://img.shields.io/badge/Security-Information%20Assurance-red?style=for-the-badge&logo=security&logoColor=white)](https://github.com/yourusername/infosec-labs)
